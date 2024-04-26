@@ -1,6 +1,6 @@
 # Web Traffic Analysis
 
-### The goal is to understand this traffic better, in particular the volume and distribution of events, and to develop ideas on how to increase the links' click rates. With that in mind, The data is going to be analyzed using plain SQL statements as well as the Python Pandas and SciPy libraries. providing answers to the following questions:
+#### The goal is to understand this traffic better, in particular the volume and distribution of events, and to develop ideas on how to increase the links' click rates. With that in mind, The data is going to be analyzed using plain SQL statements as well as the Python Pandas and SciPy libraries. providing answers to the following questions:
 
 1.  How many total pageview events did the links in the provided dataset receive in the full period, how many per day?
 2.  What about the other recorded events?
@@ -11,9 +11,9 @@
 
 
 # Dataset
-### The traffic.db SQLite database contains the web traffic data ("events") from a few different pages ("links") over 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content.
+#### The traffic.db SQLite database contains the web traffic data ("events") from a few different pages ("links") over 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content.
 
 
 # Dashboard
 
-![Web Traffic Dashboard](WEBTRAFFICPROJECTDASHBOARD.png)
+![Web Traffic Dashboard](https://drive.google.com/file/d/1Yhf3ubN4syQjkP5PTbEwzC5qzV6Dy0Vn/view?usp=drive_link)
