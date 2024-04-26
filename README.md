@@ -16,4 +16,4 @@
 
 # Dashboard
 
-![Web traffic dashboard](/dashboard.png)
+![Web traffic dashboard](/dashboard.jpg)
