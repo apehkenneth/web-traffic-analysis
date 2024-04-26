@@ -15,4 +15,4 @@
 
 # Dashboard
 
-![Web Traffic Dashboard](WEB TRAFFIC PROJECT DASHBOARD.png)
+![Web Traffic Dashboard](https://github.com/apehkenneth/web-traffic-analysis/blob/main/WEB%20TRAFFIC%20PROJECT%20DASHBOARD.png)
