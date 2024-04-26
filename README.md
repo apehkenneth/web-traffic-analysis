@@ -11,8 +11,10 @@
 
 
 # Dataset
-#### The traffic.db SQLite database contains the web traffic data ("events") from a few different pages ("links") over 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content.
+#### The [traffic.db](https://drive.google.com/file/d/15_LNjgSfAVsGFiSnsBK8Crl16fUpbQrk/view?usp=sharing) SQLite database contains the web traffic data ("events") from a few different pages ("links") over 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content.
+
+
 
 
 # Dashboard
-![](https://drive.google.com/file/d/1Yhf3ubN4syQjkP5PTbEwzC5qzV6Dy0Vn/view?usp=drive_link)
+![Web Traffic Dashboard](https://drive.google.com/file/d/1Yhf3ubN4syQjkP5PTbEwzC5qzV6Dy0Vn/view?usp=sharing)
